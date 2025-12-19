@@ -12,8 +12,8 @@
 - [Business Questions Addressed with SQL](#business-questions-addressed-with-sql)
 - [Business Questions Explored in Python EDA](#business-questions-explored-in-python-eda)
 - [Power BI Dashboard](#power-bi-dashboard)
+- [Dashboard Screenshots](#dashboard-screenshots)
 - [Key Insights](#key-insights)
-
 
 ---
 
@@ -146,6 +146,11 @@ The interactive Power BI dashboard provides stakeholder-friendly visualizations 
 
 ---
 
+## 🖼️ Dashboard Screenshots
+
+![Overview](customer_beh_dash.png)
+
+
 ## 🔑 Key Insights
 - Subscribed customers exhibit significantly higher average order value and purchase frequency
 - Discounts and promo codes effectively drive repeat purchases but can slightly reduce transaction value
@@ -154,4 +159,3 @@ The interactive Power BI dashboard provides stakeholder-friendly visualizations 
 - Age, gender, and location show distinct spending preferences, enabling targeted marketing
 
 ---
-
